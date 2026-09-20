@@ -16,3 +16,4 @@
 - 14-copy_html: copia los archivos .html del directorio actual al directorio padre, solo los que no existen allí o son más nuevos.
 - 15-lets_move: mueve todos los archivos que empiezan con una letra mayúscula al directorio /tmp/u.
 - 16-clean_emacs: elimina todos los archivos del directorio actual que terminan con el carácter ~.
+- 17-tree: crea los directorios welcome/, welcome/to/ y welcome/to/school en el directorio actual.

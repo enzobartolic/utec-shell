@@ -14,3 +14,4 @@
 - 12-file_type: imprime el tipo del archivo llamado iamafile, que está en /tmp.
 - 13-symbolic_link: crea un enlace simbólico a /bin/ls llamado __ls__ en el directorio de trabajo actual.
 - 14-copy_html: copia los archivos .html del directorio actual al directorio padre, solo los que no existen allí o son más nuevos.
+- 15-lets_move: mueve todos los archivos que empiezan con una letra mayúscula al directorio /tmp/u.

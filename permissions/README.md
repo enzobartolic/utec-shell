@@ -10,3 +10,6 @@ Script que imprime el nombre de usuario efectivo del usuario actual.
 
 ## 2-groups
 Script que imprime todos los grupos del usuario actual.
+
+## 4-empty
+Script que crea un archivo vacío llamado `hello`.

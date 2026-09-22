@@ -28,3 +28,6 @@ Script que añade permiso de ejecución al propietario, grupo y otros, al archiv
 
 ## 8-James_Bond
 Script que establece los permisos de `hello` en 007 (sin permisos para propietario y grupo, todos los permisos para otros).
+
+## 9-John_Doe
+Script que establece el modo de `hello` en 753.

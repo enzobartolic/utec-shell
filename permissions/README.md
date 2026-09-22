@@ -22,3 +22,6 @@ Script que añade permiso de ejecución al propietario del archivo `hello`.
 
 ## 6-multiple_permissions
 Script que añade permiso de ejecución al propietario y al grupo, y de lectura a otros, al archivo `hello`.
+
+## 7-everybody
+Script que añade permiso de ejecución al propietario, grupo y otros, al archivo `hello`.

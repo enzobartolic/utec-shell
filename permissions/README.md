@@ -25,3 +25,6 @@ Script que añade permiso de ejecución al propietario y al grupo, y de lectura 
 
 ## 7-everybody
 Script que añade permiso de ejecución al propietario, grupo y otros, al archivo `hello`.
+
+## 8-James_Bond
+Script que establece los permisos de `hello` en 007 (sin permisos para propietario y grupo, todos los permisos para otros).

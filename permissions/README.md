@@ -37,3 +37,6 @@ Script que establece el modo de `hello` igual al modo de `olleh`.
 
 ## 11-directories_permissions
 Script que agrega permiso de ejecución a todos los subdirectorios del directorio actual (propietario, grupo y otros).
+
+## 12-directory_permissions
+Script que crea el directorio `my_dir` con permisos 751.

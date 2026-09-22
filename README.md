@@ -1,2 +1,6 @@
 # utec-shell
-Repositorio con los proyectos de shell del curso UTEC.
+
+Proyecto de permisos en Linux.
+
+## permissions/0-iam_betty
+Script que cambia el usuario actual a `betty`.

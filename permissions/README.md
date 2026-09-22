@@ -19,3 +19,6 @@ Script que crea un archivo vacío llamado `hello`.
 
 ## 5-execute
 Script que añade permiso de ejecución al propietario del archivo `hello`.
+
+## 6-multiple_permissions
+Script que añade permiso de ejecución al propietario y al grupo, y de lectura a otros, al archivo `hello`.

@@ -10,3 +10,6 @@ Script que imprime el nombre de usuario efectivo del usuario actual.
 
 ## 2-groups
 Script que imprime todos los grupos del usuario actual.
+
+## 3-new_owner
+Script que cambia el propietario del archivo `hello` al usuario `betty`.

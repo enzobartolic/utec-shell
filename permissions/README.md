@@ -34,3 +34,6 @@ Script que establece el modo de `hello` en 753.
 
 ## 10-mirror_permissions
 Script que establece el modo de `hello` igual al modo de `olleh`.
+
+## 11-directories_permissions
+Script que agrega permiso de ejecución a todos los subdirectorios del directorio actual (propietario, grupo y otros).

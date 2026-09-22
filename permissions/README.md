@@ -31,3 +31,6 @@ Script que establece los permisos de `hello` en 007 (sin permisos para propietar
 
 ## 9-John_Doe
 Script que establece el modo de `hello` en 753.
+
+## 10-mirror_permissions
+Script que establece el modo de `hello` igual al modo de `olleh`.

@@ -18,3 +18,6 @@
 17-hidethisword: muestra líneas de /etc/passwd que no contienen "bin"
 18-letteronly: muestra líneas de /etc/ssh/sshd_config que comienzan con una letra
 19-AZ: reemplaza A por Z y c por e en la entrada
+20-hiago: elimina las letras c y C de la entrada
+21-reverse: invierte la entrada
+22-users_and_homes: muestra usuarios y sus directorios de inicio, ordenados

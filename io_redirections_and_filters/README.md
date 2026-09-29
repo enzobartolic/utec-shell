@@ -7,3 +7,4 @@
 6-third_line: muestra la tercera línea del archivo iacta
 7-file: crea un archivo con nombre de caracteres especiales conteniendo Best School
 8-cwd_state: guarda el resultado de ls -la en el archivo ls_cwd_content
+9-duplicate_last_line: duplica la última línea del archivo iacta

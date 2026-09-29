@@ -12,3 +12,4 @@
 11-directories: cuenta el número de directorios y subdirectorios del directorio actual
 12-newest_files: muestra los 10 archivos más recientes del directorio actual
 13-unique: muestra las palabras que aparecen exactamente una vez, ordenadas
+14-findthatword: muestra las líneas que contienen "root" en /etc/passwd

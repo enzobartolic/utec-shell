@@ -52,3 +52,7 @@ Script que cambia el propietario a `vincent` y el grupo propietario a `staff` de
 
 ## 15-symbolic_link_permissions
 Script que cambia el propietario y el grupo propietario del enlace simbólico `_hello` a `vincent` y `staff`, respectivamente.
+
+
+## 16-if_only
+Script que cambia el propietario del archivo `hello` a `vincent` solo si pertenece al usuario `guillaume`.

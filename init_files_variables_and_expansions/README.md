@@ -8,3 +8,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 - `1-hello_you`: imprime "hello" seguido del nombre del usuario actual.
 - `3-paths`: cuenta el número de directorios en el `PATH`.
 - `4-global_variables`: lista las variables de entorno.
+- `5-local_variables`: lista todas las variables locales y entorno, y las funciones.

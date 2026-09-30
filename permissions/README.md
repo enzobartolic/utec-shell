@@ -40,3 +40,7 @@ Script que agrega permiso de ejecución a todos los subdirectorios del directori
 
 ## 12-directory_permissions
 Script que crea el directorio `my_dir` con permisos 751.
+
+
+## 13-change_group
+Script que cambia el grupo propietario del archivo `hello` a `school`.

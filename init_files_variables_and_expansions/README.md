@@ -11,3 +11,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 - `5-local_variables`: lista todas las variables locales y entorno, y las funciones.
 - `6-create_local_variable`: crea una variable local llamada `BEST` con el valor `School`.
 - `7-create_global_variable`: crea una variable global llamada `BEST` con el valor `School`.
+- `8-true_knowledge`: imprime la suma de 128 con el valor de la variable de entorno `TRUEKNOWLEDGE`.

@@ -5,4 +5,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 ## Scripts
 
 - `0-alias`: crea un alias llamado `ls` cuyo valor es `rm -f *`.
-- `1-hello_you`: imprime "hola" seguido del nombre del usuario actual.
+- `1-hello_you`: imprime "hello" seguido del nombre del usuario actual.

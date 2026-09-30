@@ -15,3 +15,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 - `9-divide_and_rule`: imprime el resultado de dividir `POWER` por `DIVIDE`.
 - `10-love_exponent_breath`: imprime el resultado de `BREATH` elevado a la potencia `LOVE`.
 - `11-binary_to_decimal`: convierte el número binario de la variable `BINARY` a decimal.
+- `12-combinations`: imprime todas las combinaciones de dos letras minúsculas, una por línea y en orden alfabético, excepto `oo`.

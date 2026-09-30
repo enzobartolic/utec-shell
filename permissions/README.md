@@ -44,3 +44,7 @@ Script que crea el directorio `my_dir` con permisos 751.
 
 ## 13-change_group
 Script que cambia el grupo propietario del archivo `hello` a `school`.
+
+
+## 14-change_owner_and_group
+Script que cambia el propietario a `vincent` y el grupo propietario a `staff` de todos los archivos y directorios en el directorio de trabajo.

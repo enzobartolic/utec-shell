@@ -7,3 +7,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 - `0-alias`: crea un alias llamado `ls` cuyo valor es `rm -f *`.
 - `1-hello_you`: imprime "hello" seguido del nombre del usuario actual.
 - `3-paths`: cuenta el número de directorios en el `PATH`.
+- `4-global_variables`: lista las variables de entorno.

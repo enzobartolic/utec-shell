@@ -17,3 +17,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 - `11-binary_to_decimal`: convierte el número binario de la variable `BINARY` a decimal.
 - `12-combinations`: imprime todas las combinaciones de dos letras minúsculas, una por línea y en orden alfabético, excepto `oo`.
 - `13-print_float`: imprime el número de la variable `NUM` con dos decimales.
+- `14-decimal_to_hexadecimal`: convierte el número decimal de la variable `DECIMAL` a hexadecimal.

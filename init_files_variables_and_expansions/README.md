@@ -14,3 +14,4 @@ Proyecto sobre archivos de inicialización del shell, variables, expansiones, ar
 - `8-true_knowledge`: imprime la suma de 128 con el valor de la variable de entorno `TRUEKNOWLEDGE`.
 - `9-divide_and_rule`: imprime el resultado de dividir `POWER` por `DIVIDE`.
 - `10-love_exponent_breath`: imprime el resultado de `BREATH` elevado a la potencia `LOVE`.
+- `11-binary_to_decimal`: convierte el número binario de la variable `BINARY` a decimal.
